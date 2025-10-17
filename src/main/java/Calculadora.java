@@ -18,19 +18,17 @@ public class Calculadora {
      */
     public Calculadora(int num1, int num2) {
         // TODO - implement Calculadora.Calculadora
-        this.n1 = num1;
-        this.n2 = num2;
-
+        throw new UnsupportedOperationException();
     }
 
     public int sumar() {
         // TODO - implement Calculadora.sumar
-        return this.n1+this.n2;
+        throw new UnsupportedOperationException();
     }
 
     public int multiplicar() {
         // TODO - implement Calculadora.multiplicar
-        return this.n1*this.n2;
+        throw new UnsupportedOperationException();
     }
 
 }
