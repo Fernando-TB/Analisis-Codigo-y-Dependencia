@@ -8,9 +8,8 @@ ii) Existe una relacion entre las clases en el metodo subTotal de la clase Carro
 
 <img width="1588" height="976" alt="image" src="https://github.com/user-attachments/assets/bf66d29a-57d9-446d-ba62-3e89ead4ee77" />
 
-
 Aqui una compilacion del programa
 
 <img width="1768" height="226" alt="image" src="https://github.com/user-attachments/assets/131fe978-7eb3-4884-a202-fdaee09ed6e6" />
 
-
+En la rama master esta el codigo que compila y cumple el funcionamiento del codigo y en la rama fromUML se ven las clases Calculadora y CarroCompra como fueron arrojadas originalmente por Visual Paradigm
